@@ -1,3 +1,44 @@
-ProcJam/Library/metadata
-ProcJam/Temp
-ProcJam/Library/ShaderCache
+
+# =============== #
+# Unity generated #
+# =============== #
+ProcJam/[Tt]emp/
+ProcJam/[Oo]bj/
+ProcJam/[Bb]uild
+ProcJam//[Bb]uilds/
+ProcJam//[Ll]ibrary/
+ProcJam/sysinfo.txt
+ProcJam/*.stackdump
+ProcJam//Assets/AssetStoreTools*
+ProcJam/*.apk
+ProcJam/*.unitypackage
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ProcJam/[Ee]xported[Oo]bj/
+ProcJam/.vs/
+ProcJam/*.userprefs
+ProcJam/*.csproj
+ProcJam/*.pidb
+ProcJam/*.pidb.meta
+ProcJam/*.suo
+ProcJam/*.sln*
+ProcJam/*.user
+ProcJam/*.unityproj
+ProcJam/*.booproj
+ProcJam/.consulo/
+ProcJam/*.tmp
+ProcJam/*.svd
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
